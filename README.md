@@ -1,7 +1,8 @@
 <html>
 <body>
-<pre>***Now you can upload an image from URL***
-This Background Remove Tool has been created using the Python "rembg" library, and I've made modifications to enhance its user-friendliness. I hope you find it enjoyable and useful.
+<pre><b><i>***Now you can upload an image from URL***</i></b>
+<b>This Background Remove Tool has been created using the Python "rembg" library, and I've made modifications to enhance its user-friendliness. 
+I hope you find it enjoyable and useful.<b>
 1. Click "Open in Colab" to open the notebook.
 2. If you're not signed into your Google account in the browser, sign in first.
 3. Press Ctrl+F9 or go to the menu -> Runtime -> Run All.
