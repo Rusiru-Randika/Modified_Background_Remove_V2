@@ -1,4 +1,6 @@
-***Now you can upload an image from URL***
+<html>
+<body>
+<pre>***Now you can upload an image from URL***
 This Background Remove Tool has been created using the Python "rembg" library, and I've made modifications to enhance its user-friendliness. I hope you find it enjoyable and useful.
 1. Click "Open in Colab" to open the notebook.
 2. If you're not signed into your Google account in the browser, sign in first.
@@ -12,4 +14,6 @@ This Background Remove Tool has been created using the Python "rembg" library, a
            1.Paste the image URL and then press Enter.
            2.Ensure that you input a valid image URL.
 8. If you come across an error, rerun the previous cell and input a valid image URL or upload a valid image file.
-9. After a brief processing time, your background-removed image will be automatically downloaded.
+9. After a brief processing time, your background-removed image will be automatically downloaded.</pre>
+</body>
+</html>
